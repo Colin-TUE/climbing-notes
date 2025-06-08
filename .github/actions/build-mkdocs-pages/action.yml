@@ -10,10 +10,12 @@ runs:
         python-version: '3.11'
 
     - name: Install MkDocs and dependencies
+      shell: bash
       run: |
         pip install -r requirements.txt
 
     - name: Build MkDocs site
+      shell: bash
       run: mkdocs build --strict --verbose
 
     - name: Upload artifacts
