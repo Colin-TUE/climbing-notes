@@ -9,9 +9,9 @@ copyright: Copyright Colin Lambrechts - Licenced under MIT License
 theme:
   name: material
   palette:
-    scheme: default
-    primary: indigo
-    accent: indigo
+    scheme: iceberg
+    primary: teal
+    accent: deep_orange
   features:
     - navigation.tabs
     - navigation.top
