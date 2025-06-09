@@ -1,0 +1,25 @@
+name: Build MkDocs Pages
+description: Build MkDocs pages
+
+runs:
+  using: "composite"
+  steps:
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install MkDocs and dependencies
+      shell: bash
+      run: |
+        pip install -r requirements.txt
+
+    - name: Build MkDocs site
+      shell: bash
+      run: mkdocs build --strict --verbose
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: mkdocs-site
+        path: site

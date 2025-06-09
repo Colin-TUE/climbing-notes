@@ -1,0 +1,27 @@
+site_name: Climbing Notes
+repo_url: https://github.com/Colin-TUE/climbing-notes
+docs_dir: docs
+use_directory_urls: false
+site_author: Colin Lambrechts
+site_description: A collection of climbing notes, make publicly available so others might benefit from them.
+copyright: Copyright Colin Lambrechts - Licenced under MIT License
+
+theme:
+  name: material
+  palette:
+    scheme: iceberg
+    primary: teal
+    accent: deep_orange
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+
+nav:
+  - Home: index.md
+  - Norway:
+      - Troldhuagen:
+          - Just For Fun: Norway/JustForFun.md
