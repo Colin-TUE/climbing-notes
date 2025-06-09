@@ -4,7 +4,7 @@ docs_dir: docs
 use_directory_urls: false
 site_author: Colin Lambrechts
 site_description: A collection of climbing notes, make publicly available so others might benefit from them.
-copyright: Copyright Colin Lambrechts - Licenced under MIT License
+copyright: Copyright Colin Lambrechts - Licensed under MIT License for the non-attributed parts. Other parts may be under different licenses, see the individual files for details.
 
 theme:
   name: material
