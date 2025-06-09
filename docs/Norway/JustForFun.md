@@ -26,7 +26,7 @@ There is no clear path to follow and some path finding is required. The approach
 
 The starting point of the route is marked with big orange letters "JFF", hard to find, but also hard to miss once you are at the start.
 
-![Image showing the start of the route](../images/JustForFunStart-Start.jpg)
+![Image showing the start of the route](../images/JustForFun-Start.jpg)
 
 ![Image showing the markings of the start of the route](../images/JustForFun-Marking.jpg)
 
