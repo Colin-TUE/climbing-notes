@@ -30,6 +30,14 @@ The starting point of the route is marked with big orange letters "JFF", hard to
 
 ![Image showing the markings of the start of the route](../images/JustForFun-Marking.jpg)
 
+## Topo
+
+Topos taken over from the old guide book.
+
+![Troldhaugen overview topo](../images/Troldhaugen-Topo.jpg)
+
+![Just for Fun topo](../images/JustForFun-Topo.jpg)
+
 ## Descent
 
 There should be a path around the back of Troldhaugen, leading back towards teh start. However, if that path is as good as the approach, it will be a tricky one to follow. Luckily the anchor points were bolted and so we could rappel down.
