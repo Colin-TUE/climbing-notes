@@ -5,7 +5,9 @@ It is a 4+ mixed climbing route on Troldhaugen of about 200 meters (4 rope lengt
 ## GPS Coordinates
 
 Elevation: 404 m
+
 Latitude: 58.978512
+
 Longitude: 8.357576
 
 ## Parking
@@ -13,7 +15,9 @@ Longitude: 8.357576
 There is no dedicated parking spot available, however, there is a gravel road that leads to a campsite. One can park at the entrance of the gravel road or further down, closer to the campsite or at the end of the road.
 
 Elevation: 282 m
+
 Latitude: 58.977090
+
 Longitude: 8.343916
 
 ## Approach
@@ -24,7 +28,7 @@ There is no clear path to follow and some path finding is required. The approach
 
 ## Starting point
 
-The starting point of the route is marked with big orange letters "JFF", hard to find, but also hard to miss once you are at the start.
+The starting point of the route is marked with big orange letters "JFF", hard to find the starting spot, but also hard to miss once you found the spot.
 
 ![Image showing the start of the route](../images/JustForFun-Start.jpg)
 
