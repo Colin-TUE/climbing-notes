@@ -21,5 +21,5 @@ runs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: mkdocs-site
+        name: github-pages
         path: site
