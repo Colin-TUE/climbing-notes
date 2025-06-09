@@ -5,7 +5,9 @@ It is a 4+ mixed climbing route on Troldhaugen of about 200 meters (4 rope lengt
 ## GPS Coordinates
 
 Elevation: 404 m
+
 Latitude: 58.978512
+
 Longitude: 8.357576
 
 ## Parking
@@ -13,7 +15,9 @@ Longitude: 8.357576
 There is no dedicated parking spot available, however, there is a gravel road that leads to a campsite. One can park at the entrance of the gravel road or further down, closer to the campsite or at the end of the road.
 
 Elevation: 282 m
+
 Latitude: 58.977090
+
 Longitude: 8.343916
 
 ## Approach
