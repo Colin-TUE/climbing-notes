@@ -51,6 +51,7 @@ There should be a path around the back of Troldhaugen, leading back towards teh 
 - [Troldhaugen on 27Crags.com](https://27crags.com/crags/troldhaugen)
 - [Troldhaugen on TheCrag.com](https://www.thecrag.com/en/climbing/norway/eastern-norway/area/320921535)
 - [Climbing notes we used for climbing, written by Hans Bräuner-Osborne](https://www.climb.dk/Nissedalen1.html)
+- [Climbing notes we used for climbing, written by Tore Langhelle](https://peakbook.org/Langhellen/tour/371544/Just+for+fun%2C+4%2B%2C+4tl.+Troldhaugen%2C+Nissedal..html)
 - [Dåstjønn lake on Google Maps](https://www.google.com/maps/place/Ron+bru/@58.9792585,8.3147756,15z)
 - [Old guide book for Nissedal - Overview Troldhaugen - page 37](https://www.yumpu.com/no/document/read/8721842/frer-nissedal-osi-fjell/36)
 - [Old guide book for Nissedal - Just for Fun topo - page 39](https://www.yumpu.com/no/document/read/8721842/frer-nissedal-osi-fjell/39)
