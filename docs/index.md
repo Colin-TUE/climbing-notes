@@ -7,3 +7,4 @@ Here I am sharing some notes on some climbs I did, hope they might benefit you. 
 Norway:
 
 - [Troldhaugen - Just for Fun](./Norway/JustForFun.md)
+- [Bjøbergnuten - Nordveggen](./Norway/Bjobergnuten.md)
